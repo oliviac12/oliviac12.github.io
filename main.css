@@ -29,7 +29,7 @@ a:focus,
 a:active,
 a.active {
     outline: 0;
-    color: #2c3e50;
+    color: #dedce1;
 }
 
 @font-face {
@@ -353,7 +353,7 @@ footer h3 {
 
 footer .footer-above {
     padding-top: 50px;
-    background-color: #bc1838;
+    background-color: -webkit-linear-gradient(right, #7655a4, #68b9d5, #a85ca4);
 }
 
 footer .footer-col {
