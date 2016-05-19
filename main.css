@@ -103,7 +103,8 @@ hr.star-primary:after {
 header {
     /*text-align: center;*/
     text-align: right;
-    color: #7655a4;
+    font-weight: bold;
+    /*color: #7655a4;*/
     background: #dedce1;
 }
 
