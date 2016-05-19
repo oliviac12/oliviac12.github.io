@@ -102,7 +102,7 @@ hr.star-primary:after {
 
 header {
     /*text-align: center;*/
-    text-align: right;
+    text-align: center;
     font-weight: bold;
     /*color: #7655a4;*/
     background: #dedce1;
@@ -113,11 +113,11 @@ header .container {
     padding-bottom: 50px;
 }
 /*PICTURE*/
-header img {
+/*header img {
     display: block;
     margin: 0 auto 20px;
     margin-left: 35px; /*ADDED THIS LINE*/
-}
+}*/
 
 header .intro-text .name {
     display: block;
@@ -135,7 +135,7 @@ header .intro-text .skills {
 @media(min-width:768px) {
     header .container {
         padding-top: 200px;
-        padding-bottom: 100px;
+        padding-bottom: 200px;
     }
 
     header .intro-text .name {
