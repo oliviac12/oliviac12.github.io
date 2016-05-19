@@ -154,6 +154,8 @@ header .intro-text .skills {
         -webkit-transition: padding .3s;
         -moz-transition: padding .3s;
         transition: padding .3s;
+        /*background: #466368;*/
+        background: linear-gradient(to right, #7655a4, #68b9d5, #a85ca4);
     }
 
     .navbar-fixed-top .navbar-brand {
@@ -174,8 +176,7 @@ header .intro-text .skills {
 
 .navbar {
     text-transform: uppercase;
-    font-family: CircularStd-Black
-;
+    font-family: CircularStd-Black;
     font-weight: 700;
 }
 
@@ -360,7 +361,7 @@ footer h3 {
 
 footer .footer-above {
     padding-top: 50px;
-    background-color: #bc1838;
+    /*background-color: #bc1838;*/
     background: linear-gradient(to right, #7655a4, #68b9d5, #a85ca4);
 }
 
