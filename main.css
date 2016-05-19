@@ -32,6 +32,11 @@ a.active {
     color: #2c3e50;
 }
 
+@font-face {
+font-family: testFont;
+src: url(/fonts/ThirstyScriptLight.otf);
+};
+
 h1,
 h2,
 h3,
@@ -39,10 +44,7 @@ h4,
 h5,
 h6 {
     text-transform: uppercase;
-    @font-face {
     font-family: testFont;
-    src: url(/fonts/ThirstyScriptLight.otf);
-};
     font-weight: 700;
 }
 
