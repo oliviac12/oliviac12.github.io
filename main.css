@@ -2388,7 +2388,7 @@ legend {
     margin-bottom: 21px;
     font-size: 22.5px;
     line-height: inherit;
-    color: linear-gradient(to right, #7655a4, #68b9d5, #a85ca4);
+    background: linear-gradient(to right, #7655a4, #68b9d5, #a85ca4);
     border: 0;
     border-bottom: 1px solid transparent
 }
@@ -2432,7 +2432,7 @@ output {
     padding-top: 11px;
     font-size: 15px;
     line-height: 1.42857143;
-    color: linear-gradient(to right, #7655a4, #68b9d5, #a85ca4)
+    background: linear-gradient(to right, #7655a4, #68b9d5, #a85ca4)
 }
 .form-control {
     display: block;
@@ -2441,7 +2441,7 @@ output {
     padding: 10px 15px;
     font-size: 15px;
     line-height: 1.42857143;
-    color: linear-gradient(to right, #7655a4, #68b9d5, #a85ca4);
+    background: linear-gradient(to right, #7655a4, #68b9d5, #a85ca4);
     background-color: #ffffff;
     background-image: none;
     border: 1px solid #dce4ec;
@@ -2895,7 +2895,7 @@ fieldset[disabled] .btn-default.active {
 }
 .btn-primary {
     color: #ffffff;
-    background-color: linear-gradient(to right, #7655a4, #68b9d5, #a85ca4);
+    background: linear-gradient(to right, #7655a4, #68b9d5, #a85ca4);
     border-color: linear-gradient(to right, #7655a4, #68b9d5, #a85ca4)
 }
 .btn-primary:hover,
@@ -2927,11 +2927,11 @@ fieldset[disabled] .btn-primary:active,
 .btn-primary.disabled.active,
 .btn-primary[disabled].active,
 fieldset[disabled] .btn-primary.active {
-    background-color: linear-gradient(to right, #7655a4, #68b9d5, #a85ca4);
+    background: linear-gradient(to right, #7655a4, #68b9d5, #a85ca4);
     border-color: linear-gradient(to right, #7655a4, #68b9d5, #a85ca4)
 }
 .btn-primary .badge {
-    color: linear-gradient(to right, #7655a4, #68b9d5, #a85ca4);
+    background: linear-gradient(to right, #7655a4, #68b9d5, #a85ca4);
     background-color: #ffffff
 }
 .btn-success {
@@ -3253,7 +3253,7 @@ tbody.collapse.in {
 .dropdown-menu>li>a:focus {
     text-decoration: none;
     color: #ffffff;
-    background-color: linear-gradient(to right, #7655a4, #68b9d5, #a85ca4)
+    background: linear-gradient(to right, #7655a4, #68b9d5, #a85ca4)
 }
 .dropdown-menu>.active>a,
 .dropdown-menu>.active>a:hover,
@@ -3261,7 +3261,7 @@ tbody.collapse.in {
     color: #ffffff;
     text-decoration: none;
     outline: 0;
-    background-color: linear-gradient(to right, #7655a4, #68b9d5, #a85ca4)
+    background: linear-gradient(to right, #7655a4, #68b9d5, #a85ca4)
 }
 .dropdown-menu>.disabled>a,
 .dropdown-menu>.disabled>a:hover,
@@ -3587,7 +3587,7 @@ select[multiple].input-group-sm>.input-group-btn>.btn {
     font-size: 15px;
     font-weight: normal;
     line-height: 1;
-    color: linear-gradient(to right, #7655a4, #68b9d5, #a85ca4);
+    background: linear-gradient(to right, #7655a4, #68b9d5, #a85ca4);
     text-align: center;
     background-color: #ecf0f1;
     border: 1px solid #dce4ec;
