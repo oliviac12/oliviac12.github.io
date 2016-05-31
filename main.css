@@ -3720,8 +3720,7 @@ select[multiple].input-group-sm>.input-group-btn>.btn {
 .nav-tabs>li.active>a,
 .nav-tabs>li.active>a:hover,
 .nav-tabs>li.active>a:focus {
-    color: linear-gradient(to right, #7655a4, #68b9d5, #a85ca4);
-    background-color: #ffffff;
+    background: linear-gradient(to right, #7655a4, #68b9d5, #a85ca4);
     border: 1px solid #ecf0f1;
     border-bottom-color: transparent;
     cursor: default
@@ -3783,7 +3782,7 @@ select[multiple].input-group-sm>.input-group-btn>.btn {
 .nav-pills>li.active>a:hover,
 .nav-pills>li.active>a:focus {
     color: #ffffff;
-    background-color: linear-gradient(to right, #7655a4, #68b9d5, #a85ca4)
+    background: linear-gradient(to right, #7655a4, #68b9d5, #a85ca4)
 }
 .nav-stacked>li {
     float: none
@@ -4171,7 +4170,7 @@ select[multiple].input-group-sm>.input-group-btn>.btn {
     }
 }
 .navbar-default {
-    background-color: linear-gradient(to right, #7655a4, #68b9d5, #a85ca4);
+    background: linear-gradient(to right, #7655a4, #68b9d5, #a85ca4);
     border-color: transparent
 }
 .navbar-default .navbar-brand {
@@ -4334,7 +4333,7 @@ fieldset[disabled] .navbar-default .btn-link:focus {
     .navbar-inverse .navbar-nav .open .dropdown-menu>li>a:hover,
     .navbar-inverse .navbar-nav .open .dropdown-menu>li>a:focus {
         color: linear-gradient(to right, #7655a4, #68b9d5, #a85ca4);
-        background-color: transparent
+        background-color: #a85ca4
     }
     .navbar-inverse .navbar-nav .open .dropdown-menu>.active>a,
     .navbar-inverse .navbar-nav .open .dropdown-menu>.active>a:hover,
@@ -4353,7 +4352,7 @@ fieldset[disabled] .navbar-default .btn-link:focus {
     color: #ffffff
 }
 .navbar-inverse .navbar-link:hover {
-    color: linear-gradient(to right, #7655a4, #68b9d5, #a85ca4)
+    background: linear-gradient(to right, #7655a4, #68b9d5, #a85ca4)
 }
 .navbar-inverse .btn-link {
     color: #ffffff
